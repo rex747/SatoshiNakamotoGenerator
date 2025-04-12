@@ -22,8 +22,8 @@ HDD: от 100 Гб
 - генерирует адреса в формате P2PKH, что соответствует первым адресам Bitcoin, содержащим как раз, искомые 50 BTC.
 
 Условия приобретения:
-- оплата 500$ покупки программы на адрес Monero: 45YP8PgLwDEcw4vMBQCLwC11qzPti8ypaRTuJeuxfZhJfhoVXmSGmU4jUSnDtdwcLxQAVzjxbFHmHNNm5U2kUeuDMAWGH9T
-- после оплаты, написать письмо по адресу: rex747@protonmail.com  с указанием адреса, с которого была произведена оплата, и Вам будет выслана скомпилированная стандартная программа, либо скорректированная за + 200$ за каждый пункт Ваших пожеланий (если требуется доработка кода, процесс может занять от 1 до 5 дней).
+- оплата 150$ покупки программы на адрес Monero: 45YP8PgLwDEcw4vMBQCLwC11qzPti8ypaRTuJeuxfZhJfhoVXmSGmU4jUSnDtdwcLxQAVzjxbFHmHNNm5U2kUeuDMAWGH9T
+- после оплаты, написать письмо по адресу: rex747@protonmail.com  с указанием адреса, с которого была произведена оплата, и Вам будет выслана скомпилированная стандартная программа, либо скорректированная за + 50$ за каждый пункт Ваших пожеланий (если требуется доработка кода, процесс может занять от 1 до 5 дней).
 
 В следующей версии программы: 
 - генерация приватных ключей «узкой направленности»;
@@ -76,7 +76,7 @@ Generates P2PKH addresses, matching the format of the earliest Bitcoin addresses
 Purchase Terms:
 
 Payment:
-$500 (in Monero) to the following address:
+$150 (in Monero) to the following address:
 
 45YP8PgLwDEcw4vMBQCLwC11qzPti8ypaRTuJeuxfZhJfhoVXmSGmU4jUSnDtdwcLxQAVzjxbFHmHNNm5U2kUeuDMAWGH9T  
 
@@ -85,7 +85,7 @@ After payment, send an email to rex747@protonmail.com with:
 The sender’s Monero address (used for payment).
 You will then receive:
 A standard compiled version of the program, or
-A customized version (+$200 per requested modification, if code modifications are required, the process may take 1 to 5 days).
+A customized version (+50$ per requested modification, if code modifications are required, the process may take 1 to 5 days).
 
 Planned Updates
 
