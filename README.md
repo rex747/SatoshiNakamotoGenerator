@@ -7,7 +7,7 @@
 Таким образом, удалось создать программу, восстанавливающую генерацию энтропии первых Bitcoin адресов.
 По причине того, что данная программа содержит сведения, полученные при помощи исследований OSINT, начальные значения времени в релизе на GitHub отсутствуют и получить программу с данными значениями возможно, оплатив ее покупку.
 Для каждого клиента программа будет скомпилирована индивидуально. Возможно обсуждение персональных настроек программы с каждым клиентом.
-Поскольку, данный релиз программы осуществляет простой брутфорс в заданном диапазоне, стоимость программы составляет 500$.
+Поскольку, данный релиз программы осуществляет простой брутфорс в заданном диапазоне, стоимость программы составляет 150$.
 
 Минимальные системные требования.
 Windows 10.
@@ -49,7 +49,7 @@ Due to the inclusion of OSINT-derived data, the initial time values are omitted 
 
 Each client receives a custom-compiled version. Personalized configurations can be discussed individually.
 
-Since this release performs a basic brute-force search within a defined range, the program is priced at $500.
+Since this release performs a basic brute-force search within a defined range, the program is priced at $150.
 
 Minimum System Requirements
 
